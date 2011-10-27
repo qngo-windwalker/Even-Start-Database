@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<root>
+	<assets>
+		<item>
+			<name>Interactive Reading for Toddlers and Preschoolers</name>
+			<file_type>URL</file_type>
+			<location>Resources\InteractiveLiteracyActivities\OnlineCourse\irtp\index.php</location>
+			<url>http://www.evenstartnetwork.net/irtp/</url>
+			<top_level_id>ILA</top_level_id>
+			<second_level_id>OC</second_level_id>
+			<tag>Shelley Gray</tag>
+			<desc>Interactive Literacy for Toddlers and Preschoolers is a professional development course for  instructors wishing to provide students with a strong foundation for learning.  The material can also be useful in providing parents with the tools to interact with their children in ways that foster language skills and pre-reading skills.  This course is a combination of class lectures, demonstrations, homework assignments, and various reading resources focused on helping toddlers and preschoolers develop print awareness, vocabulary, oral language comprehension, and oral language production.  Shelley Gray is the instructor for the course.</desc>
+			<synopsis>This course is broken down into 5 classes, each with videos, exercises, homework, and further reading.  Class 1 provides an introduction to Interactive Reading. In the first module of this class, Dr. Gray explains how interactive reading differs from typical book reading and gives examples of how teachers can plan for interactive reading with a toddler and a preschooler. In the second module, you will learn how interactive reading can impact children&#x2019;s development and where to look on the web for research on interactive reading, and in module 3, Dr. Gray explains the importance of reading different types of books to children. Classes 2 &amp; 3 both cover interactive reading with toddlers. Class 2 has 4 modules. In the first, Dr. Gray describes how families and teachers can set the stage for successful interactive reading with toddlers. In the second, Dr. Gray explains how parents and teachers can help a toddler focus attention during interactive reading. In module 3, Dr. Gray gives examples of what parents and teachers can say to a toddler when reading the book "First Words".  Finally, in module 4, Dr. Gray explains how to extend the book after the reading.</synopsis>
+			<synopsis_cont>In module 1 of class 3, Dr. Gray describes how teachers can set the stage for successful interactive reading with toddlers.  This is followed by a module that lists the key activities that teachers can use when they read a book for the first time.  Classes 4 &amp; 5 discuss interactive reading with preschoolers. In class 4 Dr. Gray goes through the process of an interactive reading lesson when reading a book for the second time. Module 1 talks about preparing the reading. Here Dr. Gray explains how to select objectives, vocabulary and materials to prepare for a second reading. Module 2 explains how to introduce the book. The third module explains how prompts and questions during the second reading differ from the first and gives examples of each.  In module 4, Dr. Gray lists possible follow up questions after a second reading and explains how teachers and parents can extend the story to another context. Class 5 covers the same topics as class 3, only as applied to preschoolers rather than toddlers.</synopsis_cont>
+		</item>
+		<item>
+			<name>Early Childhood Education Lesson 1: Mission Critical</name>
+			<file_type>PDF</file_type>
+			<location>Resources\EarlyChildhoodEducation\OnlineCourse\docs\L01_9_18_8.pdf</location>
+			<url>http://www.evenstartnetwork.net/ECLessons/PDF/L01_9_18_8.pdf</url>
+			<top_level_id>ECE</top_level_id>
+			<second_level_id>OC</second_level_id>
+			<tag>achievement gap</tag>
+			<desc>This presentation discusses the achievement gap and how the encouragement of early literacy development can help overcome it.</desc>
+			<synopsis>This presentation is the first of 7 lessons on early childhood education. It offers an overview of the achievement gap and the problems young children living in poverty face in their education. Pointers on using early literacy to help narrow the achievement gap are given. A section on brain development in young children closes the presentation.</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
+			<name>Doing What Works</name>
+<!--			<file_type>link</file_type>-->
+			<file_type>URL</file_type>
+			<location>http://dww.ed.gov/Preschool-Language-and-Literacy/topic/?T_ID=15</location>
+			<url>http://dww.ed.gov/Preschool-Language-and-Literacy/topic/?T_ID=15</url>
+			<top_level_id>ECE</top_level_id>
+			<second_level_id>G, R</second_level_id>
+			<tag>practices</tag>
+			<desc>This website provides practical, research-based practices for preschool practioners.</desc>
+			<synopsis>Preschool education is important to a child's long-term success. this website provides practical information about two research-based practices to improve instruction in foundational pre-reading skills and provides suggestions for how the website can be used to support and train teachers in learning these practices to improve the quality of preschool instruction.</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
+			<name>Making Meaningful Changes in Program Design - Practice and Play</name>
+			<file_type>PDF</file_type>
+			<location>Resources\EarlyChildhoodEducation\TeachingActivity\docs\Module 3.pdf</location>
+			<url>http://www.evenstartnetwork.net/pdf/Module%203.pdf</url>
+			<top_level_id>ECE</top_level_id>
+			<second_level_id>TA</second_level_id>
+			<tag>program design, practice, play</tag>
+			<desc>Presentation slides on practice and play</desc>
+			<synopsis>Presentation slides for module on practice and play for ECE program design training</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+	</assets>
+</root>

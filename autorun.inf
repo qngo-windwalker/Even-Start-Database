@@ -1,0 +1,8 @@
+[autorun]
+shellexecute=Launch.html --cdmenu
+label=Even Start Database
+
+[Content]
+MusicFiles=false
+PictureFiles=false
+VideoFiles=false

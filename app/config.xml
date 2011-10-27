@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : config.xml
+    Created on : July 7, 2011, 2:48 PM
+    Author     : qngo
+    Description:
+        Provide the configuration of the application.
+-->
+
+<config>
+	<app_settings>
+		<key id="base_url" value=""/>
+		<key id="resource_dir" value="app/"/>
+<!--		<key id="xml" value="assets/xml/test.xml"/>-->
+		<key id="xml" value="app/assets/xml/data.xml"/>
+		<key id="debug_mode" value="production"/>
+	</app_settings>
+</config>

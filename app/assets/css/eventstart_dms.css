@@ -1,0 +1,64 @@
+
+.btn{ font-size: 100.01%; border: 1px solid #999999; text-decoration: none; padding: 2px 6px;}
+.grey-btn{background: url(../../assets/img/th_bkgd.gif) repeat-x #cdcdcd; color: black; }
+.green-btn{background: #99b602; color: white; }
+.green-btn:hover, .green-btn:focus{ color: black;}
+
+#javascript-msg{padding: 20px 20px 1px 20px; margin-bottom: 10px; background: #AC1C20; font-size: 16px; color : white; font-weight: bold; }
+
+#header{display: block; background: url(../../assets/img/h1_bkgd.gif) repeat-x #dde291; padding: 3px 20px 0; color : #666;}
+#header h1{ background: url(../../assets/img/logo.gif) no-repeat; padding: 6px 0 10px 40px; font-size: 18px; color: white; font-weight: bold; }
+#search-form ul{padding: 0; margin: 0; }
+#search-form li{ display: inline; display: block; height: 32px; float: left; margin: 0 10px 0 0;}
+#search-form input{ display: block; float: left;}
+#search-form p{ font-style: oblique; }
+
+	#search-txt{ width : 560px; height: 21px; border: 1px solid #999; padding: 0; margin: 0; background: #ffeedc;}
+/*	#search-txt:focus, #search-txt:hover{ border: 1px solid #f7941d; }*/ /* This causes spacing issue in IE7 */
+	
+	#advance-sort { background: #ccce8e; }
+	#advance-sort input{ color: #666666; background: #ccce8e; border: 1px solid #ccce8e; }
+
+#search-btn{}
+
+#filter-wrapper{ background: #ccce8e; overflow: hidden; color: #666; padding: 15px 20px 0; height: 0px; clear: both;}
+/*#filter-wrapper{ height: auto;} */
+#filter-wrapper.active{ height: auto; }
+	#filter-box{}
+		#filter-option{display : block; } /* TODO: Implement tag option. */
+		#filter-option ul{padding-left: 0;}
+		#filter-option li{ display: inline; margin-right: 10px;}
+		#filter-option li p{margin-bottom: 0; width: 60px; float: left;}
+
+			#filter-tag{ display: none;  visibility: hidden;}
+			
+#filter-wrapper.active	#tag-container{ position: relative;} /* This fixes IE7 display issue. */
+					#tag-container .autocomplete{ position: absolute; top: 16px; left: 0px; background: white; border: 1px solid #4b4b4b; width: 200px; background-color: #989a9e; padding: 4px;}
+					#tag-container .autocomplete li{ display: block; padding: 4px; margin: 0; background-color: white;}
+					#tag-container .autocomplete .selected {background: url(../../assets/img/th_bkgd.gif) repeat-x #cdcdcd;}
+
+#output{ clear: both; padding: 20px;}
+#output table { border-collapse: separate; border-spacing: 1px; border: none; background-color: #ccc;}
+#output table thead th{background: url(../../assets/img/th_bkgd.gif) repeat-x #cdcdcd;}
+#output table thead th.sort-alpha:hover{ cursor: pointer;}
+#output table thead th.active span{ background: url(../../assets/img/down_arrow.gif) right no-repeat; width: 100%;}
+#output table thead th span{ padding-right: 10px;}
+#output table tbody td{ vertical-align: top; padding: 10px;}
+
+#output table tbody td .green-btn{ display: block; float: right; }
+#output table tbody td .synopsis{ clear: both; display: none; }
+#output table tbody td.name a{ text-decoration: none; font-size: 1.3em;}
+#output table td, #output table th {background-color:  white;}
+/*#output table td, #output table th {border: 1px solid #ccc; }*/
+
+#top-content p{float: left;}
+#top-content a{float: right;}
+
+a.icon-btn {display: block; height: 24px; width: 24px; padding: 4px 0 0 20px; text-decoration: none;}
+a.pdf { background: url(../../assets/img/icons/pdf.gif) -4px 0 no-repeat;}
+a.word { background: url(../../assets/img/icons/word.gif) -4px 0 no-repeat;}
+a.url { background: url(../../assets/img/icons/globe.gif) 0 0 no-repeat; padding-left: 30px;}
+a.wmv { background: url(../../assets/img/icons/wmv.gif) -2px 0 no-repeat; padding-left: 30px;}
+a.fla { background: url(../../assets/img/icons/flash.gif) -4px 0 no-repeat;}
+a.ppt { background: url(../../assets/img/icons/ppt.gif) -4px 0 no-repeat;}
+

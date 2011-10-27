@@ -1,0 +1,4 @@
+
+
+body div#output table{border-collapse: collapse; }
+body div#output table th, body div#output table td{border : 1px solid #ccc;}
